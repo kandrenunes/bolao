@@ -4,6 +4,8 @@ import os, hashlib
 from datetime import datetime, timedelta
 from typing import Optional
 
+SENHA_ADMIN = os.environ.get("SENHA_ADMIN", "admin123")
+
 from jose import JWTError, jwt
 from passlib.context import CryptContext
 from fastapi import Depends, HTTPException, status
