@@ -1,0 +1,381 @@
+rodada;time_casa;time_visitante
+1;Fluminense;Grêmio
+1;Botafogo;Cruzeiro
+1;São Paulo;Flamengo
+1;Corinthians;Bahia
+1;Mirassol;Vasco
+1;Atlético-MG;Palmeiras
+1;Internacional;Athletico-PR
+1;Coritiba;Bragantino
+1;Vitória;Remo
+1;Chapecoense;Santos
+2;Flamengo;Internacional
+2;Vasco;Chapecoense
+2;Santos;São Paulo
+2;Palmeiras;Vitória
+2;Bragantino;Atlético-MG
+2;Cruzeiro;Coritiba
+2;Grêmio;Botafogo
+2;Athletico-PR;Corinthians
+2;Bahia;Fluminense
+2;Remo;Mirassol
+3;Fluminense;Botafogo
+3;Vasco;Bahia
+3;São Paulo;Grêmio
+3;Corinthians;Bragantino
+3;Mirassol;Cruzeiro
+3;Atlético-MG;Remo
+3;Internacional;Palmeiras
+3;Athletico-PR;Santos
+3;Vitória;Flamengo
+3;Chapecoense;Coritiba
+4;Flamengo;Mirassol
+4;Botafogo;Vitória
+4;Santos;Vasco
+4;Palmeiras;Fluminense
+4;Bragantino;Athletico-PR
+4;Cruzeiro;Corinthians
+4;Grêmio;Atlético-MG
+4;Coritiba;São Paulo
+4;Bahia;Chapecoense
+4;Remo;Internacional
+5;Flamengo;Cruzeiro
+5;Vasco;Palmeiras
+5;São Paulo;Chapecoense
+5;Corinthians;Coritiba
+5;Mirassol;Santos
+5;Atlético-MG;Internacional
+5;Grêmio;Bragantino
+5;Athletico-PR;Botafogo
+5;Bahia;Vitória
+5;Remo;Fluminense
+6;Fluminense;Athletico-PR
+6;Botafogo;Flamengo
+6;Santos;Corinthians
+6;Palmeiras;Mirassol
+6;Bragantino;São Paulo
+6;Cruzeiro;Vasco
+6;Internacional;Bahia
+6;Coritiba;Remo
+6;Vitória;Atlético-MG
+6;Chapecoense;Grêmio
+7;Flamengo;Remo
+7;Vasco;Fluminense
+7;Santos;Internacional
+7;Palmeiras;Botafogo
+7;Mirassol;Coritiba
+7;Atlético-MG;São Paulo
+7;Grêmio;Vitória
+7;Athletico-PR;Cruzeiro
+7;Bahia;Bragantino
+7;Chapecoense;Corinthians
+8;Fluminense;Atlético-MG
+8;Vasco;Grêmio
+8;São Paulo;Palmeiras
+8;Corinthians;Flamengo
+8;Bragantino;Botafogo
+8;Cruzeiro;Santos
+8;Internacional;Chapecoense
+8;Athletico-PR;Coritiba
+8;Vitória;Mirassol
+8;Remo;Bahia
+9;Fluminense;Corinthians
+9;Botafogo;Mirassol
+9;Santos;Remo
+9;Palmeiras;Grêmio
+9;Bragantino;Flamengo
+9;Cruzeiro;Vitória
+9;Internacional;São Paulo
+9;Coritiba;Vasco
+9;Bahia;Athletico-PR
+9;Chapecoense;Atlético-MG
+10;Flamengo;Santos
+10;Vasco;Botafogo
+10;São Paulo;Cruzeiro
+10;Corinthians;Internacional
+10;Mirassol;Bragantino
+10;Atlético-MG;Athletico-PR
+10;Grêmio;Remo
+10;Coritiba;Fluminense
+10;Bahia;Palmeiras
+10;Chapecoense;Vitória
+11;Fluminense;Flamengo
+11;Botafogo;Coritiba
+11;Santos;Atlético-MG
+11;Corinthians;Palmeiras
+11;Mirassol;Bahia
+11;Cruzeiro;Bragantino
+11;Internacional;Grêmio
+11;Athletico-PR;Chapecoense
+11;Vitória;São Paulo
+11;Remo;Vasco
+12;Flamengo;Bahia
+12;Vasco;São Paulo
+12;Santos;Fluminense
+12;Palmeiras;Athletico-PR
+12;Bragantino;Remo
+12;Cruzeiro;Grêmio
+12;Internacional;Mirassol
+12;Coritiba;Atlético-MG
+12;Vitória;Corinthians
+12;Chapecoense;Botafogo
+13;Fluminense;Chapecoense
+13;Botafogo;Internacional
+13;São Paulo;Mirassol
+13;Corinthians;Vasco
+13;Bragantino;Palmeiras
+13;Atlético-MG;Flamengo
+13;Grêmio;Coritiba
+13;Athletico-PR;Vitória
+13;Bahia;Santos
+13;Remo;Cruzeiro
+14;Flamengo;Vasco
+14;Botafogo;Remo
+14;São Paulo;Bahia
+14;Palmeiras;Santos
+14;Mirassol;Corinthians
+14;Cruzeiro;Atlético-MG
+14;Internacional;Fluminense
+14;Athletico-PR;Grêmio
+14;Vitória;Coritiba
+14;Chapecoense;Bragantino
+15;Fluminense;Vitória
+15;Vasco;Athletico-PR
+15;Santos;Bragantino
+15;Corinthians;São Paulo
+15;Mirassol;Chapecoense
+15;Atlético-MG;Botafogo
+15;Grêmio;Flamengo
+15;Coritiba;Internacional
+15;Bahia;Cruzeiro
+15;Remo;Palmeiras
+16;Fluminense;São Paulo
+16;Botafogo;Corinthians
+16;Santos;Coritiba
+16;Palmeiras;Cruzeiro
+16;Bragantino;Vitória
+16;Atlético-MG;Mirassol
+16;Internacional;Vasco
+16;Athletico-PR;Flamengo
+16;Bahia;Grêmio
+16;Chapecoense;Remo
+17;Flamengo;Palmeiras
+17;Vasco;Bragantino
+17;São Paulo;Botafogo
+17;Corinthians;Atlético-MG
+17;Mirassol;Fluminense
+17;Cruzeiro;Chapecoense
+17;Grêmio;Santos
+17;Coritiba;Bahia
+17;Vitória;Internacional
+17;Remo;Athletico-PR
+18;Flamengo;Coritiba
+18;Vasco;Atlético-MG
+18;Santos;Vitória
+18;Palmeiras;Chapecoense
+18;Bragantino;Internacional
+18;Cruzeiro;Fluminense
+18;Grêmio;Corinthians
+18;Athletico-PR;Mirassol
+18;Bahia;Botafogo
+18;Remo;São Paulo
+19;Fluminense;Bragantino
+19;Botafogo;Santos
+19;São Paulo;Athletico-PR
+19;Corinthians;Remo
+19;Mirassol;Grêmio
+19;Atlético-MG;Bahia
+19;Internacional;Cruzeiro
+19;Coritiba;Palmeiras
+19;Vitória;Vasco
+19;Chapecoense;Flamengo
+20;Flamengo;São Paulo
+20;Vasco;Mirassol
+20;Santos;Chapecoense
+20;Palmeiras;Atlético-MG
+20;Bragantino;Coritiba
+20;Cruzeiro;Botafogo
+20;Grêmio;Fluminense
+20;Athletico-PR;Internacional
+20;Bahia;Corinthians
+20;Remo;Vitória
+21;Fluminense;Bahia
+21;Botafogo;Grêmio
+21;São Paulo;Santos
+21;Corinthians;Athletico-PR
+21;Mirassol;Remo
+21;Atlético-MG;Bragantino
+21;Internacional;Flamengo
+21;Coritiba;Cruzeiro
+21;Vitória;Palmeiras
+21;Chapecoense;Vasco
+22;Flamengo;Vitória
+22;Botafogo;Fluminense
+22;Santos;Athletico-PR
+22;Palmeiras;Internacional
+22;Bragantino;Corinthians
+22;Cruzeiro;Mirassol
+22;Grêmio;São Paulo
+22;Coritiba;Chapecoense
+22;Bahia;Vasco
+22;Remo;Atlético-MG
+23;Fluminense;Palmeiras
+23;Vasco;Santos
+23;São Paulo;Coritiba
+23;Corinthians;Cruzeiro
+23;Mirassol;Flamengo
+23;Atlético-MG;Grêmio
+23;Internacional;Remo
+23;Athletico-PR;Bragantino
+23;Vitória;Botafogo
+23;Chapecoense;Bahia
+24;Fluminense;Remo
+24;Botafogo;Athletico-PR
+24;Santos;Mirassol
+24;Palmeiras;Vasco
+24;Bragantino;Grêmio
+24;Cruzeiro;Flamengo
+24;Internacional;Atlético-MG
+24;Coritiba;Corinthians
+24;Vitória;Bahia
+24;Chapecoense;São Paulo
+25;Flamengo;Botafogo
+25;Vasco;Cruzeiro
+25;São Paulo;Bragantino
+25;Corinthians;Santos
+25;Mirassol;Palmeiras
+25;Atlético-MG;Vitória
+25;Grêmio;Chapecoense
+25;Athletico-PR;Fluminense
+25;Bahia;Internacional
+25;Remo;Coritiba
+26;Fluminense;Vasco
+26;Botafogo;Palmeiras
+26;São Paulo;Atlético-MG
+26;Corinthians;Chapecoense
+26;Bragantino;Bahia
+26;Cruzeiro;Athletico-PR
+26;Internacional;Santos
+26;Coritiba;Mirassol
+26;Vitória;Grêmio
+26;Remo;Flamengo
+27;Flamengo;Corinthians
+27;Botafogo;Bragantino
+27;Santos;Cruzeiro
+27;Palmeiras;São Paulo
+27;Mirassol;Vitória
+27;Atlético-MG;Fluminense
+27;Grêmio;Vasco
+27;Coritiba;Athletico-PR
+27;Bahia;Remo
+27;Chapecoense;Internacional
+28;Flamengo;Bragantino
+28;Vasco;Coritiba
+28;São Paulo;Internacional
+28;Corinthians;Fluminense
+28;Mirassol;Botafogo
+28;Atlético-MG;Chapecoense
+28;Grêmio;Palmeiras
+28;Athletico-PR;Bahia
+28;Vitória;Cruzeiro
+28;Remo;Santos
+29;Fluminense;Coritiba
+29;Botafogo;Vasco
+29;Santos;Flamengo
+29;Palmeiras;Bahia
+29;Bragantino;Mirassol
+29;Cruzeiro;São Paulo
+29;Internacional;Corinthians
+29;Athletico-PR;Atlético-MG
+29;Vitória;Chapecoense
+29;Remo;Grêmio
+30;Flamengo;Fluminense
+30;Vasco;Remo
+30;São Paulo;Vitória
+30;Palmeiras;Corinthians
+30;Bragantino;Cruzeiro
+30;Atlético-MG;Santos
+30;Grêmio;Internacional
+30;Coritiba;Botafogo
+30;Bahia;Mirassol
+30;Chapecoense;Athletico-PR
+31;Fluminense;Santos
+31;Botafogo;Chapecoense
+31;São Paulo;Vasco
+31;Corinthians;Vitória
+31;Mirassol;Internacional
+31;Atlético-MG;Coritiba
+31;Grêmio;Cruzeiro
+31;Athletico-PR;Palmeiras
+31;Bahia;Flamengo
+31;Remo;Bragantino
+32;Flamengo;Atlético-MG
+32;Vasco;Corinthians
+32;Santos;Bahia
+32;Palmeiras;Bragantino
+32;Mirassol;São Paulo
+32;Cruzeiro;Remo
+32;Internacional;Botafogo
+32;Coritiba;Grêmio
+32;Vitória;Athletico-PR
+32;Chapecoense;Fluminense
+33;Fluminense;Internacional
+33;Vasco;Flamengo
+33;Santos;Palmeiras
+33;Corinthians;Mirassol
+33;Bragantino;Chapecoense
+33;Atlético-MG;Cruzeiro
+33;Grêmio;Athletico-PR
+33;Coritiba;Vitória
+33;Bahia;São Paulo
+33;Remo;Botafogo
+34;Flamengo;Grêmio
+34;Botafogo;Atlético-MG
+34;São Paulo;Corinthians
+34;Palmeiras;Remo
+34;Bragantino;Santos
+34;Cruzeiro;Bahia
+34;Internacional;Coritiba
+34;Athletico-PR;Vasco
+34;Vitória;Fluminense
+34;Chapecoense;Mirassol
+35;Flamengo;Athletico-PR
+35;Vasco;Internacional
+35;São Paulo;Fluminense
+35;Corinthians;Botafogo
+35;Mirassol;Atlético-MG
+35;Cruzeiro;Palmeiras
+35;Grêmio;Bahia
+35;Coritiba;Santos
+35;Vitória;Bragantino
+35;Remo;Chapecoense
+36;Fluminense;Mirassol
+36;Botafogo;São Paulo
+36;Santos;Grêmio
+36;Palmeiras;Flamengo
+36;Bragantino;Vasco
+36;Atlético-MG;Corinthians
+36;Internacional;Vitória
+36;Athletico-PR;Remo
+36;Bahia;Coritiba
+36;Chapecoense;Cruzeiro
+37;Fluminense;Cruzeiro
+37;Botafogo;Bahia
+37;São Paulo;Remo
+37;Corinthians;Grêmio
+37;Mirassol;Athletico-PR
+37;Atlético-MG;Vasco
+37;Internacional;Bragantino
+37;Coritiba;Flamengo
+37;Vitória;Santos
+37;Chapecoense;Palmeiras
+38;Flamengo;Chapecoense
+38;Vasco;Vitória
+38;Santos;Botafogo
+38;Palmeiras;Coritiba
+38;Bragantino;Fluminense
+38;Cruzeiro;Internacional
+38;Grêmio;Mirassol
+38;Athletico-PR;São Paulo
+38;Bahia;Atlético-MG
+38;Remo;Corinthians
