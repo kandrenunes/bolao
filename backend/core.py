@@ -125,21 +125,30 @@ def carregar_jogos(caminho_csv: str) -> dict:
     if not os.path.exists(caminho_csv):
         print(f"{Cor.VERMELHO}Erro: arquivo '{caminho_csv}' nao encontrado.{Cor.RESET}")
         sys.exit(1)
+
     rodadas = defaultdict(list)
-    with open(caminho_csv, newline="", encoding="utf-8") as f:
+
+    # Correção: usar encoding latin-1
+    with open(caminho_csv, newline="", encoding="latin-1") as f:
         reader = csv.DictReader(f)
-        cols   = {"rodada", "time_casa", "time_visitante"}
+        cols = {"rodada", "time_casa", "time_visitante"}
+
         if not cols.issubset(set(reader.fieldnames or [])):
-            print(f"{Cor.VERMELHO}Erro: CSV precisa ter: rodada, time_casa, time_visitante{Cor.RESET}")
+            print(
+                f"{Cor.VERMELHO}Erro: CSV precisa ter: "
+                f"rodada, time_casa, time_visitante{Cor.RESET}"
+            )
             sys.exit(1)
+
         for linha in reader:
             try:
                 rodada = int(linha["rodada"].strip())
-                casa   = linha["time_casa"].strip()
-                visit  = linha["time_visitante"].strip()
+                casa = linha["time_casa"].strip()
+                visit = linha["time_visitante"].strip()
                 rodadas[rodada].append((casa, visit))
-            except ValueError:
+            except (ValueError, KeyError):
                 continue
+
     return dict(sorted(rodadas.items()))
 
 
