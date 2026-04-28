@@ -123,21 +123,18 @@ def salvar_json(caminho: str, dados):
 
 def carregar_jogos(caminho_csv: str) -> dict:
     if not os.path.exists(caminho_csv):
-        print(f"{Cor.VERMELHO}Erro: arquivo '{caminho_csv}' nao encontrado.{Cor.RESET}")
+        print(f"Erro: arquivo '{caminho_csv}' nao encontrado.")
         sys.exit(1)
 
     rodadas = defaultdict(list)
 
-    # Correção: usar encoding latin-1
+    # ✅ Correção: usar encoding latin-1
     with open(caminho_csv, newline="", encoding="latin-1") as f:
         reader = csv.DictReader(f)
         cols = {"rodada", "time_casa", "time_visitante"}
 
         if not cols.issubset(set(reader.fieldnames or [])):
-            print(
-                f"{Cor.VERMELHO}Erro: CSV precisa ter: "
-                f"rodada, time_casa, time_visitante{Cor.RESET}"
-            )
+            print("Erro: CSV precisa ter: rodada, time_casa, time_visitante")
             sys.exit(1)
 
         for linha in reader:
